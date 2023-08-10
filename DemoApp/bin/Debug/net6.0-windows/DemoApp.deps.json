@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "DemoApp/1.0.0": {
+        "dependencies": {
+          "DemoApp.Core": "1.0.0"
+        },
         "runtime": {
           "DemoApp.dll": {}
+        }
+      },
+      "DemoApp.Core/1.0.0": {
+        "runtime": {
+          "DemoApp.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DemoApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoApp.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

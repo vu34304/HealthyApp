@@ -5,6 +5,7 @@
         <Setter Property="Width" Value="170"></Setter>
         <Setter Property="Foreground" Value="#fdfefe"></Setter>
         <Setter Property="Width" Value="170"></Setter>
+        <Setter Property="FontWeight" Value="DemiBold"></Setter>
         <Setter Property="Background" Value="Transparent"></Setter>
         <Setter Property="FocusVisualStyle" Value="{x:Null}"></Setter>
         <Setter Property="Template">
@@ -33,6 +34,7 @@
         <Setter Property="Width" Value="200"></Setter>
         <Setter Property="Foreground" Value="#fdfefe"></Setter>
         <Setter Property="Width" Value="170"></Setter>
+        <Setter Property="FontWeight" Value="DemiBold"></Setter>
         <Setter Property="Background" Value="#1E90FF"></Setter>
         <Setter Property="FocusVisualStyle" Value="{x:Null}"></Setter>
         <Setter Property="Template">

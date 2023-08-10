@@ -1,0 +1,11 @@
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\bin\Debug\net6.0\DemoApp.Core.deps.json
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\bin\Debug\net6.0\DemoApp.Core.dll
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\bin\Debug\net6.0\DemoApp.Core.pdb
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\obj\Debug\net6.0\DemoApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\obj\Debug\net6.0\DemoApp.Core.AssemblyInfoInputs.cache
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\obj\Debug\net6.0\DemoApp.Core.AssemblyInfo.cs
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\obj\Debug\net6.0\DemoApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\obj\Debug\net6.0\DemoApp.Core.dll
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\obj\Debug\net6.0\refint\DemoApp.Core.dll
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\obj\Debug\net6.0\DemoApp.Core.pdb
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp.Core\obj\Debug\net6.0\ref\DemoApp.Core.dll

@@ -24,3 +24,7 @@ C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp\obj\Debug\net6.0-windows\
 C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp\obj\Debug\net6.0-windows\App.baml
 C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp\obj\Debug\net6.0-windows\View\LoginView.baml
 C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp\obj\Debug\net6.0-windows\DemoApp_Content.g.cs
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp\bin\Debug\net6.0-windows\DemoApp.Core.dll
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp\bin\Debug\net6.0-windows\DemoApp.Core.pdb
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp\obj\Debug\net6.0-windows\DemoApp.csproj.AssemblyReference.cache
+C:\Users\vu343\OneDrive\Documents\demo\DemoApp\DemoApp\obj\Debug\net6.0-windows\DemoApp.csproj.CopyComplete

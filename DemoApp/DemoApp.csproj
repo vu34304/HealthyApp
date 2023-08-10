@@ -12,4 +12,12 @@
     <Content Include="Resources\Images\icons8-medical-32.ico" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DemoApp.Core\DemoApp.Core.csproj" />
+  </ItemGroup>
+
 </Project>

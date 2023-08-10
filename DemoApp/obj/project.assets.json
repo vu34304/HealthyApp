@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "DemoApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DemoApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DemoApp.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DemoApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../DemoApp.Core/DemoApp.Core.csproj",
+      "msbuildProject": "../DemoApp.Core/DemoApp.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "DemoApp.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\vu343\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vu343\\OneDrive\\Documents\\demo\\DemoApp\\DemoApp.Core\\DemoApp.Core.csproj": {
+              "projectPath": "C:\\Users\\vu343\\OneDrive\\Documents\\demo\\DemoApp\\DemoApp.Core\\DemoApp.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
